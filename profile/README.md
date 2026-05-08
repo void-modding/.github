@@ -1,3 +1,5 @@
+# THIS ORG HAS MOVED TO [GITLAB](https://gitlab.com/void-modding/), ALL DEVELOPMENT IS DONE THERE NOW | https://gitlab.com/void-modding/
+
 # Void Modding
 
 Welcome to **Void Modding** – the home of the Void Mod Manager, a powerful and intuitive tool designed to simplify mod management for your favorite games.
